@@ -19,6 +19,7 @@
   "homepage": "https://github.com/hliyan/micro-flux-sample-apps",
   "dependencies": {
     "bluebird": "^2.9.34",
+    "micro-flux": "^0.1.1",
     "react": "^0.13.3",
     "react-router": "^0.13.3"
   },
