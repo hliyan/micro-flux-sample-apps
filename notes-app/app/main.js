@@ -17,3 +17,13 @@ var routes = (
 Router.run(routes, Router.HashLocation, (Root) => {
   React.render(<Root/>, document.body);
 });
+
+// import { Router, Route, Link } from 'react-router';
+// React.render((
+//   <Router>
+//     <Route path="/" component={App}>
+//       <Route path="notes" component={NoteIndex}/>
+//       <Route path="*" component={Index}/>
+//     </Route>
+//   </Router>
+// ), document.body);
